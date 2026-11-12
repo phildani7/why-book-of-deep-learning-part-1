@@ -1,0 +1,254 @@
+[
+ {
+  "name": "LabCh01_What_Learning_Is",
+  "chapter": 1,
+  "slug": "ch01-lab",
+  "file": "ch01_LabCh01_What_Learning_Is.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch01_LabCh01_What_Learning_Is.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch01_LabCh01_What_Learning_Is.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch01-lab"
+ },
+ {
+  "name": "Lab01_2026_stepwise",
+  "chapter": 3,
+  "slug": "ch03-lab01",
+  "file": "ch03_Lab01_2026_stepwise.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch03_Lab01_2026_stepwise.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch03_Lab01_2026_stepwise.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch03-lab01"
+ },
+ {
+  "name": "02_SKOOL_MNIST_Digit_Recognition_Interactive",
+  "chapter": 4,
+  "slug": "ch04-kids02",
+  "file": "ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch04-kids02"
+ },
+ {
+  "name": "Lab02_2026_MNIST_10Digit_Interactive",
+  "chapter": 4,
+  "slug": "ch04-lab02",
+  "file": "ch04_Lab02_2026_MNIST_10Digit_Interactive.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_Lab02_2026_MNIST_10Digit_Interactive.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_Lab02_2026_MNIST_10Digit_Interactive.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch04-lab02"
+ },
+ {
+  "name": "Lab05_2026_Activation_Functions_with_outputs",
+  "chapter": 5,
+  "slug": "ch05-lab05",
+  "file": "ch05_Lab05_2026_Activation_Functions_with_outputs.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch05_Lab05_2026_Activation_Functions_with_outputs.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch05_Lab05_2026_Activation_Functions_with_outputs.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch05-lab05"
+ },
+ {
+  "name": "Lab07_Loss_Functions_with_outputs",
+  "chapter": 6,
+  "slug": "ch06-lab07",
+  "file": "ch06_Lab07_Loss_Functions_with_outputs.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch06_Lab07_Loss_Functions_with_outputs.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch06_Lab07_Loss_Functions_with_outputs.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch06-lab07"
+ },
+ {
+  "name": "Lab03_2026_Backpropagation_ChainRule_ByHand",
+  "chapter": 7,
+  "slug": "ch07-lab03",
+  "file": "ch07_Lab03_2026_Backpropagation_ChainRule_ByHand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch07_Lab03_2026_Backpropagation_ChainRule_ByHand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch07_Lab03_2026_Backpropagation_ChainRule_ByHand.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch07-lab03"
+ },
+ {
+  "name": "LabCh08_Optimizers_And_Learning_Rate",
+  "chapter": 8,
+  "slug": "ch08-lab",
+  "file": "ch08_LabCh08_Optimizers_And_Learning_Rate.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch08_LabCh08_Optimizers_And_Learning_Rate.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch08_LabCh08_Optimizers_And_Learning_Rate.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch08-lab"
+ },
+ {
+  "name": "LabCh10_Normalization_Layers",
+  "chapter": 10,
+  "slug": "ch10-lab",
+  "file": "ch10_LabCh10_Normalization_Layers.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch10_LabCh10_Normalization_Layers.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch10_LabCh10_Normalization_Layers.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch10-lab"
+ },
+ {
+  "name": "03_SKOOL_edge_detection_kernel_demo",
+  "chapter": 13,
+  "slug": "ch13-kids03",
+  "file": "ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch13-kids03"
+ },
+ {
+  "name": "Lab04_2026_CNN_MNIST_stepwise",
+  "chapter": 13,
+  "slug": "ch13-lab04",
+  "file": "ch13_Lab04_2026_CNN_MNIST_stepwise.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_Lab04_2026_CNN_MNIST_stepwise.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_Lab04_2026_CNN_MNIST_stepwise.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch13-lab04"
+ },
+ {
+  "name": "04_SKOOL_Fashion_MNIST_CNN_Interactive",
+  "chapter": 16,
+  "slug": "ch16-kids04",
+  "file": "ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids04"
+ },
+ {
+  "name": "05_SKOOL_CIFAR10_CNN_Fixed",
+  "chapter": 16,
+  "slug": "ch16-kids05",
+  "file": "ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids05"
+ },
+ {
+  "name": "05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive",
+  "chapter": 16,
+  "slug": "ch16-kids05-layers",
+  "file": "ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids05-layers"
+ },
+ {
+  "name": "LabCh17_Residual_Blocks_And_Transfer_Learning",
+  "chapter": 17,
+  "slug": "ch17-lab",
+  "file": "ch17_LabCh17_Residual_Blocks_And_Transfer_Learning.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch17_LabCh17_Residual_Blocks_And_Transfer_Learning.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch17_LabCh17_Residual_Blocks_And_Transfer_Learning.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch17-lab"
+ },
+ {
+  "name": "06_SKOOL_Word_Magic_Equations_for_Kids_TOP5",
+  "chapter": 18,
+  "slug": "ch18-kids06",
+  "file": "ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch18-kids06"
+ },
+ {
+  "name": "Lab08_RNN_Number_Prediction",
+  "chapter": 19,
+  "slug": "ch19-lab08",
+  "file": "ch19_Lab08_RNN_Number_Prediction.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch19_Lab08_RNN_Number_Prediction.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch19_Lab08_RNN_Number_Prediction.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch19-lab08"
+ },
+ {
+  "name": "07_SKOOL_LSTM_Sequence_Predictor_for_Kids",
+  "chapter": 20,
+  "slug": "ch20-kids07",
+  "file": "ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch20-kids07"
+ },
+ {
+  "name": "08_SKOOL_LSTM_PROJECT",
+  "chapter": 20,
+  "slug": "ch20-kids08",
+  "file": "ch20_08_SKOOL_LSTM_PROJECT.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_08_SKOOL_LSTM_PROJECT.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_08_SKOOL_LSTM_PROJECT.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch20-kids08"
+ },
+ {
+  "name": "Lab10_LSTM",
+  "chapter": 20,
+  "slug": "ch20-lab10",
+  "file": "ch20_Lab10_LSTM.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_Lab10_LSTM.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_Lab10_LSTM.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch20-lab10"
+ },
+ {
+  "name": "LabCh22_Attention_By_Hand",
+  "chapter": 22,
+  "slug": "ch22-lab",
+  "file": "ch22_LabCh22_Attention_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch22_LabCh22_Attention_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch22_LabCh22_Attention_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch22-lab"
+ },
+ {
+  "name": "LabCh23_Transformer_Block",
+  "chapter": 23,
+  "slug": "ch23-lab",
+  "file": "ch23_LabCh23_Transformer_Block.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch23_LabCh23_Transformer_Block.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch23_LabCh23_Transformer_Block.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch23-lab"
+ },
+ {
+  "name": "LabCh24_FeedForward_Layers",
+  "chapter": 24,
+  "slug": "ch24-lab",
+  "file": "ch24_LabCh24_FeedForward_Layers.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch24_LabCh24_FeedForward_Layers.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch24_LabCh24_FeedForward_Layers.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch24-lab"
+ },
+ {
+  "name": "LabCh25_Linear_Attention",
+  "chapter": 25,
+  "slug": "ch25-lab",
+  "file": "ch25_LabCh25_Linear_Attention.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch25_LabCh25_Linear_Attention.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch25_LabCh25_Linear_Attention.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch25-lab"
+ },
+ {
+  "name": "LabCh26_State_Space_Models",
+  "chapter": 26,
+  "slug": "ch26-lab",
+  "file": "ch26_LabCh26_State_Space_Models.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch26_LabCh26_State_Space_Models.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch26_LabCh26_State_Space_Models.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch26-lab"
+ },
+ {
+  "name": "LabCh27_Autoencoders",
+  "chapter": 27,
+  "slug": "ch27-lab",
+  "file": "ch27_LabCh27_Autoencoders.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch27_LabCh27_Autoencoders.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch27_LabCh27_Autoencoders.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch27-lab"
+ },
+ {
+  "name": "LabCh28_Variational_Autoencoder",
+  "chapter": 28,
+  "slug": "ch28-lab",
+  "file": "ch28_LabCh28_Variational_Autoencoder.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch28_LabCh28_Variational_Autoencoder.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch28_LabCh28_Variational_Autoencoder.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch28-lab"
+ },
+ {
+  "name": "LabCh29_Generative_Models",
+  "chapter": 29,
+  "slug": "ch29-lab",
+  "file": "ch29_LabCh29_Generative_Models.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch29_LabCh29_Generative_Models.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch29_LabCh29_Generative_Models.ipynb",
+  "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch29-lab"
+ }
+]
