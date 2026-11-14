@@ -5,6 +5,7 @@ wrong, run from top to bottom and saved with its outputs, so you can read the re
 
 * **Read the book free:** [www.micyaai.com/books/why-deep-learning-1/](https://www.micyaai.com/books/why-deep-learning-1/)
 * **The video course:** [www.aikids.guru](https://www.aikids.guru)
+* **The author on LinkedIn:** [linkedin.com/in/phildani7](https://www.linkedin.com/in/phildani7)
 
 Click a badge to open a notebook in Google Colab (free, nothing to install), then *Runtime > Run all*.
 Tested with TensorFlow 2.21 and Keras 3.14. Notebook names start with the chapter they belong to; the
