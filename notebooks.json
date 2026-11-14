@@ -18,12 +18,12 @@
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch03-lab01"
  },
  {
-  "name": "02_SKOOL_MNIST_Digit_Recognition_Interactive",
+  "name": "KidsLab02_MNIST_Digit_Recognition",
   "chapter": 4,
   "slug": "ch04-kids02",
-  "file": "ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_02_SKOOL_MNIST_Digit_Recognition_Interactive.ipynb",
+  "file": "ch04_KidsLab02_MNIST_Digit_Recognition.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_KidsLab02_MNIST_Digit_Recognition.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch04_KidsLab02_MNIST_Digit_Recognition.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch04-kids02"
  },
  {
@@ -81,12 +81,12 @@
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch10-lab"
  },
  {
-  "name": "03_SKOOL_edge_detection_kernel_demo",
+  "name": "KidsLab03_Edge_Detection_Kernels",
   "chapter": 13,
   "slug": "ch13-kids03",
-  "file": "ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_03_SKOOL_edge_detection_kernel_demo.ipynb",
+  "file": "ch13_KidsLab03_Edge_Detection_Kernels.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_KidsLab03_Edge_Detection_Kernels.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch13_KidsLab03_Edge_Detection_Kernels.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch13-kids03"
  },
  {
@@ -99,30 +99,30 @@
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch13-lab04"
  },
  {
-  "name": "04_SKOOL_Fashion_MNIST_CNN_Interactive",
+  "name": "KidsLab04_Fashion_MNIST_CNN",
   "chapter": 16,
   "slug": "ch16-kids04",
-  "file": "ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_04_SKOOL_Fashion_MNIST_CNN_Interactive.ipynb",
+  "file": "ch16_KidsLab04_Fashion_MNIST_CNN.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab04_Fashion_MNIST_CNN.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab04_Fashion_MNIST_CNN.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids04"
  },
  {
-  "name": "05_SKOOL_CIFAR10_CNN_Fixed",
+  "name": "KidsLab05_CIFAR10_CNN",
   "chapter": 16,
   "slug": "ch16-kids05",
-  "file": "ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Fixed.ipynb",
+  "file": "ch16_KidsLab05_CIFAR10_CNN.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab05_CIFAR10_CNN.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab05_CIFAR10_CNN.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids05"
  },
  {
-  "name": "05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive",
+  "name": "KidsLab05_CIFAR10_Layer_Visualization",
   "chapter": 16,
   "slug": "ch16-kids05-layers",
-  "file": "ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_05_SKOOL_CIFAR10_CNN_Layer_Visualization_Interactive.ipynb",
+  "file": "ch16_KidsLab05_CIFAR10_Layer_Visualization.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab05_CIFAR10_Layer_Visualization.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch16_KidsLab05_CIFAR10_Layer_Visualization.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch16-kids05-layers"
  },
  {
@@ -135,12 +135,12 @@
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch17-lab"
  },
  {
-  "name": "06_SKOOL_Word_Magic_Equations_for_Kids_TOP5",
+  "name": "KidsLab06_Word_Magic_Equations",
   "chapter": 18,
   "slug": "ch18-kids06",
-  "file": "ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_06_SKOOL_Word_Magic_Equations_for_Kids_TOP5.ipynb",
+  "file": "ch18_KidsLab06_Word_Magic_Equations.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_KidsLab06_Word_Magic_Equations.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch18_KidsLab06_Word_Magic_Equations.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch18-kids06"
  },
  {
@@ -153,21 +153,21 @@
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch19-lab08"
  },
  {
-  "name": "07_SKOOL_LSTM_Sequence_Predictor_for_Kids",
+  "name": "KidsLab07_LSTM_Sequence_Predictor",
   "chapter": 20,
   "slug": "ch20-kids07",
-  "file": "ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_07_SKOOL_LSTM_Sequence_Predictor_for_Kids.ipynb",
+  "file": "ch20_KidsLab07_LSTM_Sequence_Predictor.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_KidsLab07_LSTM_Sequence_Predictor.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_KidsLab07_LSTM_Sequence_Predictor.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch20-kids07"
  },
  {
-  "name": "08_SKOOL_LSTM_PROJECT",
+  "name": "KidsLab08_LSTM_Project",
   "chapter": 20,
   "slug": "ch20-kids08",
-  "file": "ch20_08_SKOOL_LSTM_PROJECT.ipynb",
-  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_08_SKOOL_LSTM_PROJECT.ipynb",
-  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_08_SKOOL_LSTM_PROJECT.ipynb",
+  "file": "ch20_KidsLab08_LSTM_Project.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_KidsLab08_LSTM_Project.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-1/blob/main/notebooks/ch20_KidsLab08_LSTM_Project.ipynb",
   "short": "https://www.micyaai.com/books/why-deep-learning-1/nb/ch20-kids08"
  },
  {
